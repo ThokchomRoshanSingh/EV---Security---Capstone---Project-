@@ -1,0 +1,260 @@
+Minutes of Meeting (MoM)
+
+MoM – 05 January 2026
+
+Date: 05 January 2026
+Time: 8:45 AM – 9:00 AM
+Meeting Type: Daily Standup
+Mode: Online
+Facilitator: Parbat Singh
+Attendees : Parbat Singh, Nimesh Kumar, Ravi Chauhan and Roshan Thokchom
+
+Key Discussion Points
+
+The importance of maintaining proper documentation for all standup discussions was reiterated to ensure traceability and future reference.
+Team members were reminded to document all discussion points, decisions, and action items in the Minutes of Meeting (MoM).
+As discussed earlier, two primary problem statements were reviewed and evaluated.
+
+
+
+MoM – 08 January 2026
+
+Date: 08 January 2026
+Time: 8:45 AM – 9:00 AM
+Meeting Type: Daily Standup
+Mode: Online
+Facilitator: Parbat Singh
+Attendees : Parbat Singh, Nimesh Kumar, Ravi Chauhan and Roshan Thokchom
+
+Problem Identification & Shortlisted Ideas
+
+After reviewing multiple problem statements, the team shortlisted the following two ideas:
+
+1. Cybersecurity Protection of Roadside Units in Intelligent Transportation Systems (ITS)
+2. Cyber Defense for Electric Vehicle (EV) Charging Infrastructure
+
+Both ideas were found to be relevant, researchoriented, and well aligned with current cybersecurity challenges.
+
+
+MoM – 12 January 2026
+
+Date: 12 January 2026
+Time: 8:45 AM – 9:00 AM
+Meeting Type: Daily Standup
+Mode: Online
+Facilitator: Parbat Singh
+Attendees : Parbat Singh, Nimesh Kumar, Ravi Chauhan and Roshan Thokchom
+
+Research Paper Support Discussion
+
+The team discussed available research papers, journals, and technical references supporting both shortlisted ideas.
+Existing literature related to Intelligent Transportation Systems (ITS) security and EV charging infrastructure cybersecurity was reviewed.
+It was agreed that further validation of research gaps and implementation feasibility would be conducted using these research papers.
+
+
+MoM – 15 January 2026
+
+Date: 15 January 2026
+Time: 8:45 AM – 9:00 AM
+Meeting Type: Daily Standup
+Mode: Online
+Facilitator: Parbat Singh
+Attendees : Parbat Singh, Nimesh Kumar, Ravi Chauhan and Roshan Thokchom
+
+
+Team members were requested to:
+
+Check feasibility and availability of implementation options for both shortlisted ideas.
+Review and share relevant research papers supporting the selected problem statements.
+Confirm which option can be finalized by the next meeting.
+Share any updates or new ideas directly in the discussion thread.
+
+
+
+MoM – 19 January 2026
+
+Date: 19 January 2026
+Time: 8:45 AM – 9:00 AM
+Meeting Type: Daily Standup
+Mode: Online
+Attendees : Parbat Singh, Nimesh Kumar, Ravi Chauhan and Roshan Thokchom
+
+Discussion on IEEE Reference Format
+
+The team discussed how to write references using the IEEE citation format for the capstone project.
+Guidelines on intext citations and reference list formatting as per IEEE standards were reviewed.
+The team also discussed methods to identify, select, and align relevant research papers with the chosen problem statement.
+It was agreed that only peerreviewed journals, conference papers, and credible technical reports would be used as references.
+
+
+
+
+MoM – 22 January 2026
+
+Date: 22 January 2026
+Time: 8:45 AM – 9:00 AM
+Meeting Type: Daily Standup
+Mode: Online
+Facilitator: Parbat Singh
+Attendees: Parbat Singh, Nimesh Kumar, Ravi Chauhan, Roshan Thokchom
+
+Solution Finalization & Proposal Review
+
+The team finalized the selected solution proposal based on prior discussions and research validation.
+The finalized proposal was reviewed with the project professor for feedback and approval.
+Suggestions and required changes were provided by the professor to improve clarity, scope, and alignment with project objectives.
+Based on the feedback, necessary revisions were incorporated into the solution proposal.
+The updated and revised proposal was successfully uploaded to the designated submission platform.
+
+MoM – 26 January 2026
+
+Date: 26 January 2026
+Time: 8:45 AM – 9:00 AM
+Meeting Type: Daily Standup
+Mode: Online
+Facilitator: Parbat Singh
+Attendees: Parbat Singh, Nimesh Kumar, Ravi Chauhan, Roshan Thokchom
+
+Project Scope & Role Discussion
+
+A detailed discussion was conducted on the overall project scope and expected deliverables.
+The team discussed individual roles, responsibilities, and contribution areas for each member.
+Task distribution was planned to ensure balanced workload and efficient project execution.
+Clarifications were made regarding project milestones, documentation requirements, and timelines.
+
+MoM – 27 January 2026
+
+Date: 27 January 2026
+Time: 8:45 AM – 9:00 AM
+Meeting Type: Daily Standup
+Mode: Online
+Facilitator: Parbat Singh
+Attendees: Parbat Singh, Nimesh Kumar, Ravi Chauhan, Roshan Thokchom
+
+Draft Preparation – Roles & Responsibilities
+
+The team collaboratively prepared a draft document outlining individual roles and responsibilities.
+Responsibilities were mapped to specific project modules and activities.
+The draft was reviewed internally for completeness and clarity.
+It was agreed that further refinements would be made based on upcoming feedback from the professor
+
+
+MoM – 29 January 2026
+
+Date: 29 January 2026
+Time: 8:45 AM – 9:00 AM
+Meeting Type: Daily Standup
+Mode: Online
+Facilitator: Parbat Singh
+Attendees: Parbat Singh, Nimesh Kumar, Ravi Chauhan and Roshan Thokchom
+
+Progress Report 01 Discussion
+
+The team discussed the preparation and submission requirements for Progress Report 01.
+Members reviewed the current project status and aligned updates with reporting guidelines.
+Each team member shared updates on their assigned tasks and documented completed work.
+It was agreed that all sections of Progress Report 01 would be consolidated and reviewed before submission to ensure accuracy and completeness.
+
+
+MoM – 02 February 2026
+
+Date: 02 February 2026
+Time: 8:45 AM – 9:00 AM
+Meeting Type: Daily Standup
+Mode: Online
+Facilitator: Parbat Singh
+Attendees: Parbat Singh, Nimesh Kumar, Ravi Chauhan and Roshan Thokchom
+
+Project Formation & Work Breakdown Structure (WBS)
+
+The team worked on finalizing the overall project formation and structure.
+A detailed discussion was conducted on preparing the Work Breakdown Structure (WBS) for the project.
+Each project phase and module was analyzed and divided into manageable tasks.
+Descriptions for each WBS component were drafted to clearly define scope and responsibilities.
+It was agreed that the WBS document would be refined further and aligned with project milestones and deliverables.
+
+
+MoM – 05 February 2026
+
+Date: 05 February 2026
+Time: 8:45 AM – 9:00 AM
+Meeting Type: Daily Standup
+Mode: Online
+Facilitator: Parbat Singh
+Attendees: Parbat Singh, Nimesh Kumar, Ravi Chauhan and Roshan Thokchom
+
+Tools & Technology Setup | Stakeholder Engagement | Research
+
+The team discussed the tools and technologies required for project implementation and testing.
+Initial setup and configuration of selected tools and development environments were initiated.
+A discussion was conducted on identifying key stakeholders and planning effective stakeholder engagement strategies.
+The team continued literature review and industry research related to the chosen cybersecurity problem statement.
+Relevant research papers, industry case studies, and technical resources were identified for further analysis and integration into the project documentation.
+It was agreed that research findings and tool setup updates would be shared regularly in upcoming meetings.
+
+
+MoM – 09 February 2026
+Date: 09 February 2026
+Time: 8:45 AM – 9:00 AM
+Meeting Type: Daily Standup
+Mode: Online
+Facilitator: Parbat Singh
+Attendees: Parbat Singh, Nimesh Kumar, Ravi Chauhan and Roshan Thokchom
+
+Budget Planning & Work Progress Discussion
+•	The team discussed project budgeting and financial planning related to tools, resources, and implementation requirements.
+•	Estimated costs for software tools, research resources, and other project needs were reviewed.
+•	Members agreed to maintain proper tracking of expenses and ensure cost-effective utilization of available resources.
+•	Updates on ongoing project work were shared, including research progress and documentation.
+•	It was agreed that budget considerations will be reviewed regularly alongside project progress to ensure smooth execution.
+
+
+MoM – 12 February 2026
+Date: 12 February 2026
+Time: 8:45 AM – 9:00 AM
+Meeting Type: Daily Standup
+Mode: Online
+Facilitator: Parbat Singh
+Attendees: Parbat Singh, Nimesh Kumar, Ravi Chauhan and Roshan Thokchom
+Midterm Presentation & Project Setup Discussion
+•	The team discussed preparation for the upcoming midterm presentation.
+•	Presentation structure, content outline, and key project highlights were reviewed and finalized.
+•	Members began working on slides covering problem statement, research background, methodology, and expected outcomes.
+•	Discussion was conducted on project setup, including tools configuration and initial development environment preparation.
+•	Responsibilities for presentation preparation and technical setup were assigned among team members.
+•	It was agreed that the presentation draft and setup progress will be reviewed in the next meeting for further refinement.
+
+
+MoM – 23 February 2026
+Date: 23 February 2026
+Time: 8:45 AM – 9:00 AM
+Meeting Type: Daily Standup
+Mode: Online
+Facilitator: Parbat Singh
+Attendees: Parbat Singh, Nimesh Kumar, Roshan Thokchom
+Absent: Ravi Chauhan
+Ongoing Development & Task Progress Discussion
+•	The team discussed the current progress of ongoing development tasks for the EV Charging Cybersecurity project.
+•	Updates were shared on system architecture planning, anomaly detection model preparation, and dashboard design concepts.
+•	Each member provided updates on their assigned responsibilities and development progress.
+•	Discussion was conducted on aligning individual development work with overall project milestones and upcoming deliverables.
+•	Ravi Chauhan was unable to attend the meeting; updates will be shared with him separately to ensure alignment with team progress.
+•	It was agreed that all members will continue working on assigned modules and share regular progress updates in upcoming meetings.
+
+
+MoM – 26 February 2026
+Date: 26 February 2026
+Time: 8:45 AM – 9:00 AM
+Meeting Type: Daily Standup
+Mode: Online
+Facilitator: Parbat Singh
+Attendees: Parbat Singh, Nimesh Kumar, Ravi Chauhan, Roshan Thokchom
+Development Roadblocks & Technical Issues Discussion
+•	The team discussed current technical roadblocks encountered during development, particularly related to Python libraries and environment setup.
+•	Issues were identified with certain machine learning and data processing libraries affecting implementation of anomaly detection models.
+•	Possible solutions and troubleshooting approaches were discussed, including library updates, environment reconfiguration, and alternative tools.
+•	Team members agreed to collaborate and research solutions to resolve dependency and compatibility issues.
+•	It was decided that technical challenges and resolutions will be documented for future reference and project reporting.
+•	The team will continue development after resolving library-related issues and will review progress in the next meeting.
+
+
